@@ -8,7 +8,7 @@ def before(session):
     todos.xtra(session_id=session['session_id'])
 
 app, rt, todos, Todo = fast_app(
-    "data/todos.db",
+    ":memory:",
     id=int,
     title=str,
     description=str,

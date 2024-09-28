@@ -1,0 +1,1 @@
+ICONS = {"chevron-down": "<path d=\"m6 9 6 6 6-6\"></path>", "x": "<path d=\"M18 6 6 18\"></path><path d=\"m6 6 12 12\"></path>", "check": "<path d=\"M20 6 9 17l-5-5\"></path>", "chevron-up": "<path d=\"m18 15-6-6-6 6\"></path>"}
